@@ -27,8 +27,7 @@ adding gif)
 
 
 
-<img src="https://imgur.com/NjnL
-D10.gif" width=250><br>
+<img src="https://imgur.com/NjnLD10" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
